@@ -6,7 +6,7 @@
 4. The main code logic is located in Default.aspx.cs
 
 Answers
-Count the total score of the input: 121214
 
-Count all characters inside garbage: 6206
+1. Count the total score of the input: 121214
+2. Count all characters inside garbage: 6206
 
